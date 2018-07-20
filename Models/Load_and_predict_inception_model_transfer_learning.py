@@ -8,7 +8,7 @@ retraining the classification layer: fine-tuning, batch_norm/droupout, try model
 other than inception (Keras has a few of them), scrape imagenet instead of google
 images (using imagenetscraper)
 
-@author: sam
+@author: Samuel Mercier
 """
 
 import matplotlib.pyplot as plt
